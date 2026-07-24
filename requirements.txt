@@ -1,0 +1,5 @@
+torch
+transformers
+tokenizers
+huggingface_hub
+einops
